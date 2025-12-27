@@ -1,0 +1,19 @@
+{
+	quest.308EB3AFCD3EEB61.quest_subtitle: "Check ponder to see how this item works."
+	quest.308EB3AFCD3EEB61.title: "Drying my items"
+	quest.3A96B25BB468CB09.quest_desc: [
+		"&lCheck this item's ponder to see how it works.&r"
+		"The fundamental block of the new High Logistics update. It allows you to puy items in cardboard packages."
+	]
+	quest.3A96B25BB468CB09.title: "Moving Out"
+	quest.48CCB82C0D7784F6.quest_desc: [
+		"{image:create:item/package/cardboard_particle width:45 height:45 align:center}"
+		""
+		"&lPlease check this item's ponder for more info on how to use it!&r"
+		""
+		"From the Create 0.6.0 update comes Logistics!"
+		"The first item you will discover, the Chain Conveyor allows moving items in packages (this will make sence as you continue trough these logistic quests), as well as moving you! Right click a chain conveyor belt to see how it works."
+	]
+	quest.48CCB82C0D7784F6.title: "Logistic Things!"
+	quest.7C56BF32541BD4A7.quest_subtitle: "Allows gathering XP from items. See the first page of the ponder."
+}
